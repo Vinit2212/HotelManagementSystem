@@ -16,4 +16,5 @@ The database has 11 different entities with many other attributes that help us u
 
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/96087703/145915604-63ae2a02-1764-4c45-ae0a-f5e096539cc1.png">
 
+**PRESENTATION LINK:** [Hotel Management System PowerPoint Presentation](URL)
 
