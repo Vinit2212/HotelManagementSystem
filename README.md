@@ -16,6 +16,6 @@ The database has 11 different entities with many other attributes that help us u
 
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/96087703/145915604-63ae2a02-1764-4c45-ae0a-f5e096539cc1.png">
 
-**PRESENTATION LINK:** [BDM Project Presentation PowerPoint](URL)
+**PRESENTATION LINK:** [BDM Project Presentation]((https://github.com/Vinit2212/HotelManagementSystem/blob/main/BDM_Project_Presentation.pptx))
 
 
