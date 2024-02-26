@@ -18,4 +18,4 @@ The database has 11 different entities with many other attributes that help us u
 
 **PRESENTATION LINK:** [BDM Project Presentation](https://github.com/Vinit2212/HotelManagementSystem/raw/main/BDM_Project_Presentation.pptx)
 
-
+**PowerBI Report Link:** [Report](https://github.com/Vinit2212/HotelManagementSystem/blob/main/PowerBI_report_hotelM%20(1).pdf)
